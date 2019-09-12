@@ -3,7 +3,7 @@ plugins {
     id 'war'
 }
 
-group 'product_management_spring_thymeleaf'
+group 'product_spring_thymeleaf'
 version '1.0-SNAPSHOT'
 
 sourceCompatibility = 1.8
